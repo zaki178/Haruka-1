@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/zaki178/Haruka-1/blob/v4/settings/IMG_20220226_052132.jpg" alt="HARUKA BOT" height = "150" width="150"/>
+<img src="https://github.com/zaki178/Haruka-1/blob/v4/settings/bg%20awal.jpg" alt="HARUKA BOT" height = "150" width="150"/>
 
 <p align="center">
     <a href="https://zeeoneofc.github.io">
