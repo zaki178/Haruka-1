@@ -80,12 +80,12 @@ const starts = async (haruka = new WAConnection()) => {
 						try {
 							ppmem = await haruka.getProfilePicture(num);
 							} catch (e) {
-								ppmem = 'https://telegra.ph/file/f8df36078279304745bae.png'
+								ppmem = 'https://telegra.ph/file/1c4225ad544831d3d67e9.jpg'
 								}
 						try {
 							ppgc = await haruka.getProfilePicture(anu.jid);
 							} catch (e) {
-								ppgc = 'https://telegra.ph/file/d4c05638fa7886a1d8060.jpg'
+								ppgc = 'https://telegra.ph/file/1c4225ad544831d3d67e9.jpg'
 								}
 						let ppmem2 = await getBuffer(ppmem)
 						let ppmem3 = await uploadImages(ppmem2)
@@ -94,7 +94,7 @@ const starts = async (haruka = new WAConnection()) => {
 						let gakloo = [{
 										"buttonId": `.owner`,
 										"buttonText": {
-											"displayText": "Welcome 👋"
+											"displayText": "Welcome 😘"
 											},
 										"type": "RESPONSE"
 										}]
