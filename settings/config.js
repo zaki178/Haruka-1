@@ -6,14 +6,14 @@ global.self = false //jadiin true klo gk mau fitur bot lu di pke sama org lain
 
 // setting
 global.ownername ="ZeeoneOfc"
-global.ownernumber = "62887435047326"
+global.ownernumber = "62895376867500"
 global.botname = "Haruka-Bot"
 global.thumbnail = fs.readFileSync("./settings/Haruka.jpg") //sesuaikan dengan nama foto
-global.background = "https://telegra.ph/file/d4c05638fa7886a1d8060.jpg"
+global.background = "https://telegra.ph/file/1c4225ad544831d3d67e9.jpg"
 global.lolkey = 'RIFQIBOTZ' //apikey
 global.limit = {
-		free:20,
-		premium:1000
+		free:22,
+		premium:1000000
 	}
 global.session_name = "session.json"
 
