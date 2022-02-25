@@ -18,13 +18,18 @@ npm install @adiwajshing/baileys@3.5.0
 npm install @adiwajshing/baileys@3.5.1
 npm install @adiwajshing/baileys@3.5.2
 npm install @adiwajshing/baileys@3.5.3
+npm install @adiwajshing/baileys@3.5.4
+npm install @adiwajshing/baileys@3.5.5
+yarn
+npm i -g typescript
+tsc -p ./node_modules/@adiwajshing/bailys-md/
 echo "All dependencies have been installed, please run the command \"npm start\" to immediately start the script"
 
 #!/usr/bin/bash
 npm audit 
 npm audit fix
 npm fund
-yarn
+
 npm start
 celar
 node index.js
